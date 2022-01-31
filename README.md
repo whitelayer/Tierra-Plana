@@ -23,4 +23,48 @@ T. Libros y otros
 
 # Pequeña muestra
 
-https://i.redd.it/lohhxd4vuqw01.jpg
+![100017600493_282569](https://user-images.githubusercontent.com/98410671/151876087-0d429457-6ed2-43e3-bc19-a6d086c50143.jpg)
+
+-------------------------
+
+![146133633_793604488235638_227813837426441021_n](https://user-images.githubusercontent.com/98410671/151876114-94396396-8e86-4184-946e-f75c39f5c428.jpg)
+
+-------------------------
+
+![Science vs Pseudoscience (41)](https://user-images.githubusercontent.com/98410671/151876246-d39f5873-c396-4aa1-9680-7b8745118185.jpg)
+
+-------------------------
+
+![Science vs Pseudoscience (46)](https://user-images.githubusercontent.com/98410671/151876258-e0af4376-8a01-472a-91cc-f37b7f57854e.jpg)
+
+-------------------------
+
+![Science vs Pseudoscience (44)](https://user-images.githubusercontent.com/98410671/151876290-d1542282-6455-4260-924f-70b642e83d42.jpg)
+
+-------------------------
+
+![IMG-20210911-WA0059](https://user-images.githubusercontent.com/98410671/151876403-00a3b2e0-9c83-4a2f-8242-3bc16ce48510.jpg)
+
+-------------------------
+
+![100062500407_70867](https://user-images.githubusercontent.com/98410671/151876411-125355fd-c55b-489b-a057-f1dbb34b9984.jpg)
+
+-------------------------
+
+![Moon Landing   NASA Lies (26)](https://user-images.githubusercontent.com/98410671/151876488-841f5546-a2bf-4c80-845a-412e983185d7.jpg)
+
+-------------------------
+
+![j edgar hoover](https://user-images.githubusercontent.com/98410671/151876493-70cbd4c8-3d59-4c15-b678-0432e1c593d0.jpg)
+
+-------------------------
+
+![Science vs Pseudoscience (47)](https://user-images.githubusercontent.com/98410671/151876506-d9d51b05-3066-495a-9a21-1ae4e9d9519d.jpg)
+
+-------------------------
+
+![TeLIEvision   Globe Indoctrination (38)](https://user-images.githubusercontent.com/98410671/151876582-717783f5-21da-4ce1-b004-0f86018201b4.jpg)
+
+-------------------------
+
+![SpaceX (1)](https://user-images.githubusercontent.com/98410671/151876590-0accf398-fba9-4ce4-b53e-ff35db21eaf5.jpg)
