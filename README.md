@@ -14,14 +14,14 @@ Aun falta mucho por mejorar y que incluir, de verdad necesito ayuda. Pierdo much
 
 # Como empiezo?
 Les recomiendo empezar por las carpetas 
-A. Argumentacion, sociedades secretas, Testimonios 
-B. TP Intro, Curva de la tierra
-y los archivos sueltos con enlaces en la carpeta de inicio
+"A. Argumentacion, sociedades secretas, Testimonios" y "B. TP Intro, Curva de la tierra" ademas de los archivos sueltos con enlaces en la carpeta de inicio.
 
 Si quieren ir al grueso del repositorio, en donde se encuentra la mayor cantidad de informacion detallada
 T. Libros y otros
 
 # Pequeña muestra
+
+Carpeta Argumentacion y falacias (el objetivo de esta carpeta es reconocer argumentos falaces y como ecaluarlos)
 
 ![100017600493_282569](https://user-images.githubusercontent.com/98410671/151876087-0d429457-6ed2-43e3-bc19-a6d086c50143.jpg)
 
@@ -42,6 +42,8 @@ T. Libros y otros
 ![Science vs Pseudoscience (44)](https://user-images.githubusercontent.com/98410671/151876290-d1542282-6455-4260-924f-70b642e83d42.jpg)
 
 -------------------------
+
+Carpeta con testimonios importantes
 
 ![IMG-20210911-WA0059](https://user-images.githubusercontent.com/98410671/151876403-00a3b2e0-9c83-4a2f-8242-3bc16ce48510.jpg)
 
