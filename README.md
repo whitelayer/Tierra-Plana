@@ -23,6 +23,4 @@ T. Libros y otros
 
 # Pequeña muestra
 
-https://mega.nz/file/19lwzJTa#AugRZywo7TWhGM9Pv8IrrRhfWPaQ7P_KGUUr6409PwI
-
-https://mega.nz/file/R512DZZC#N_OUMuFyWTRUDNi7-K7zNe5Z-2R2_bP1fonN38L5ADA
+https://i.redd.it/lohhxd4vuqw01.jpg
