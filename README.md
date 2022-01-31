@@ -20,8 +20,9 @@ Si quieren ir al grueso del repositorio, en donde se encuentra la mayor cantidad
 T. Libros y otros
 
 # Pequeña muestra
+Contenidos de la carpeta A 
 
-Carpeta Argumentacion y falacias (el objetivo de esta carpeta es reconocer argumentos falaces y como ecaluarlos)
+-> Argumentacion y falacias (el objetivo de esta carpeta es reconocer argumentos falaces y como ecaluarlos)
 
 ![100017600493_282569](https://user-images.githubusercontent.com/98410671/151876087-0d429457-6ed2-43e3-bc19-a6d086c50143.jpg)
 
@@ -43,7 +44,8 @@ Carpeta Argumentacion y falacias (el objetivo de esta carpeta es reconocer argum
 
 -------------------------
 
-Carpeta con testimonios importantes
+-> Testimonios importantes
+
 
 ![IMG-20210911-WA0059](https://user-images.githubusercontent.com/98410671/151876403-00a3b2e0-9c83-4a2f-8242-3bc16ce48510.jpg)
 
