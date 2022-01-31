@@ -1,9 +1,4 @@
-# Tierra Plana
-# Flat Earth
-# Repositorio TP
-# FE Repository
-# Biblioteca Tierra Plana
-# Libros Tierra Plana
+# Tierra Plana, Flat Earth, Repositorio TP, Libros y Memes Tierra Plana
 
 Carpeta en mega con informacion relacionada a la tierra plana.
 La idea es tener respaldada toda la informacion relacionada al geocentrismo en un  lugar de facil acceso donde la tendras a la mano en el momento que más lo necesites. Que la tierra es una esfera? Solo demuestra los hechos con la gran cantidad de evidencias, fotos, videos, libros, testimonios, documentacion y argumentos irrefutables, con toda esta informacion lo vas a tener mas sencillo que nunca.  
