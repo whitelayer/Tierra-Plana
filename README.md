@@ -8,16 +8,15 @@ La idea es tener respaldada toda la informacion relacionada al geocentrismo en u
 Carpeta en mega con informacion relacionada a la tierra plana.
 https://mega.nz/folder/lwtmQZgK#K1f2SjHpEIs6Zx_rZn3k9w  
 
-Son libres de participar, si quieren formar parte del proyecto escribanme a +58 412 0389667 
+Esta invitado a participar, si quiere formar parte del proyecto escribame a +58 4120389667 
 
 Aun falta mucho por mejorar y que incluir, de verdad necesito ayuda. Pierdo mucho tiempo organizando los memes, las carpetas y decidiendo donde debe ir cada cosa.
 
 # Como empiezo?
-Les recomiendo empezar por las carpetas 
+Le recomiendo empezar por las carpetas 
 "A. Argumentacion, sociedades secretas, Testimonios" y "B. TP Intro, Curva de la tierra" ademas de los archivos sueltos con enlaces en la carpeta de inicio.
 
-Si quieren ir al grueso del repositorio, en donde se encuentra la mayor cantidad de informacion detallada
-T. Libros y otros
+Si prefiere ir al grueso del repositorio, en donde se encuentra la mayor cantidad de informacion detallada, vaya a "T. Libros y otros"
 
 # Pequeña muestra
 Contenidos de la carpeta A 
