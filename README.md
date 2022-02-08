@@ -8,9 +8,8 @@ La idea es tener respaldada toda la informacion relacionada al geocentrismo en u
 Carpeta en mega con informacion relacionada a la tierra plana.
 https://mega.nz/folder/lwtmQZgK#K1f2SjHpEIs6Zx_rZn3k9w  
 
-Esta invitado a participar, si quiere formar parte del proyecto escribame a +58 4120389667 
-
-Aun falta mucho por mejorar y que incluir, de verdad necesito ayuda. Pierdo mucho tiempo organizando los memes, las carpetas y decidiendo donde debe ir cada cosa.
+Esta invitado a participar, si quiere formar parte del proyecto puede escribir a +58 4120389667 
+Por ahora planeamos gestionar el repositorio solo mediante GitHub ya que ofrece más herramientas para colaborar en grupo.
 
 # Como empiezo?
 Le recomiendo empezar por las carpetas 
