@@ -1,8 +1,8 @@
 # Tierra Plana, Flat Earth, Repositorio TP, Libros y Memes Tierra Plana
-No busques más (por ahora), si quieres sabes más sobre la verdadera forma de la tierra y como te han mentido, este es tu lugar. 
+No busques más (por ahora), si quieres sabes más sobre la verdadera forma de la tierra y como te han mentido aquí es tu lugar. 
 
-#¿De qué va este proyecto?
-La idea es tener respaldada toda la informacion relacionada al geocentrismo en un  lugar de fácil acceso, donde tendrás a la mano y en el momento que más lo necesites. ¿ Qué la tierra es una esfera? Solo demuestra los hechos con la gran cantidad de evidencias, fotos, videos, libros, testimonios, documentacion y argumentos irrefutables, con toda esta informacion lo vas a tener mas sencillo y claro que nunca.  
+# De que va este proyecto?
+La idea es tener respaldada toda la informacion relacionada al geocentrismo en un  lugar de facil acceso donde la tendras a la mano en el momento que más lo necesites. Que la tierra es una esfera? Solo demuestra los hechos con la gran cantidad de evidencias, fotos, videos, libros, testimonios, documentacion y argumentos irrefutables, con toda esta informacion lo vas a tener mas sencillo que nunca.  
 
 # Enlace
 Carpeta en mega con informacion relacionada a la tierra plana.
@@ -13,7 +13,7 @@ Por ahora planeamos gestionar el repositorio solo mediante GitHub ya que ofrece 
 
 # Como empiezo?
 Le recomiendo empezar por las carpetas 
-"A. Argumentacion, sociedades secretas, Testimonios" y "B. TP Intro, Curva de la tierra". Además de los archivos sueltos con enlaces en la carpeta de inicio.
+"A. Argumentacion, sociedades secretas, Testimonios" y "B. TP Intro, Curva de la tierra" ademas de los archivos sueltos con enlaces en la carpeta de inicio.
 
 Si prefiere ir al grueso del repositorio, en donde se encuentra la mayor cantidad de informacion detallada, vaya a "T. Libros y otros"
 
